@@ -1,0 +1,9 @@
+.logo{
+    color: white;
+}
+.header{
+    background-color: rgb(85, 12, 12);
+}
+.me-auto.navbar-nav {
+    margin-left: 100px;
+}

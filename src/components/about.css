@@ -1,0 +1,52 @@
+#body{
+    background-color: whitesmoke;
+}
+#cards{
+    margin-top: 20px;
+    margin-bottom: 20px;
+ 
+
+
+}
+
+ .cimg{
+    height:150px;
+  width:auto;
+  padding-right: 10px;
+} 
+.ctitle{
+    color:#8B4513;
+    font-weight: bold;
+    font-size: 21px;
+    font-style:normal;
+    margin-top: -9px;
+}
+.ctext{
+    color: black;
+   
+    margin-top:-7px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.ourservices{
+    color:#c79c60;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.card1{
+    margin-left: 10px;
+    margin-top: 10px;
+    height: 50vh;
+  
+
+}
+.h2{
+    margin-top: 20px;
+}
+   .ctitle:hover{
+       color:#002D62;
+   }
+   .cimg:hover{
+       color:beige;
+   }
